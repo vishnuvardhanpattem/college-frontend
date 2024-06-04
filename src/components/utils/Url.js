@@ -1,0 +1,1 @@
+export const REACT_API_KEY = `https://college-backend-vkln.onrender.com/api`;
